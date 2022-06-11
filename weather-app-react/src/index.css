@@ -88,9 +88,10 @@ h1 {
   justify-content: space-evenly;
   text-align: center;
   width: 100%;
-  margin: 1rem auto;
-  padding: 1rem;
-  border-radius: 12px;
+  margin: 3rem auto;
+  padding: 10rem;
+  border-radius: 20px;
+  word-spacing: 10rem;
   background-color: rgba(255,255,255, 0.2);
 }
 
