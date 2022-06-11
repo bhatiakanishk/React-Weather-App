@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 77,
+        "lat": 27
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 314.74,
+        "feels_like": 311.97,
+        "temp_min": 314.74,
+        "temp_max": 314.74,
+        "pressure": 996,
+        "humidity": 11,
+        "sea_level": 996,
+        "grnd_level": 972
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 7.36,
+        "deg": 276,
+        "gust": 11.7
+    },
+    "clouds": {
+        "all": 98
+    },
+    "dt": 1654955788,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1654905444,
+        "sunset": 1654955158
+    },
+    "timezone": 19800,
+    "id": 1276092,
+    "name": "Bhasāwar",
+    "cod": 200
+}
